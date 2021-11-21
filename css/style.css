@@ -59,9 +59,6 @@ todo {
 oznameni {
   display: block;
   text-align: center;
-  font-family: "alluraregular", cursive;
-  font-size: 250%;
-  line-height: 120%;
   animation: fadein 3s;
   -moz-animation: fadein 3s; /* Firefox */
   -webkit-animation: fadein 3s; /* Safari and Chrome */
