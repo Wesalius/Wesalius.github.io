@@ -25,7 +25,6 @@ body {
   max-width: 768px;
   padding: 0.5em;
   background-color: FloralWhite;
-  font-family: Georgia, serif;
 }
 
 a {
@@ -60,7 +59,7 @@ todo {
 oznameni {
   display: block;
   text-align: center;
-  font-family: "Allura", cursive;
+  font-family: "alluraregular", cursive;
   font-size: 250%;
   line-height: 120%;
   animation: fadein 3s;
@@ -120,11 +119,10 @@ oznameni {
 
 @font-face {
     font-family: 'alluraregular';
-    src: url('allura-regular-webfont.woff2') format('woff2'),
-         url('allura-regular-webfont.woff') format('woff');
+    src: url('/fonts/allura-regular-webfont.woff2') format('woff2'),
+         url('/fonts/allura-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
 }
-
 
