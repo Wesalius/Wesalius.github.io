@@ -14,16 +14,16 @@
                 href="/sk/"
                 />
   </url><url>
-    <loc>/sk/basavel/</loc>
+    <loc>/sk/kde-je-laska-opravdiva/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="/cs/veselka/"
+                href="/cs/kde-je-laska-opravdiva/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sk"
-                href="/sk/basavel/"
+                href="/sk/kde-je-laska-opravdiva/"
                 />
   </url><url>
     <loc>/sk/lokalita/</loc>
@@ -38,6 +38,18 @@
                 href="/sk/lokalita/"
                 />
   </url><url>
+    <loc>/sk/obrad/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="/cs/obrad/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="/sk/obrad/"
+                />
+  </url><url>
     <loc>/sk/omsovy-poriadok/</loc>
     <xhtml:link
                 rel="alternate"
@@ -50,16 +62,16 @@
                 href="/sk/omsovy-poriadok/"
                 />
   </url><url>
-    <loc>/sk/sobas/</loc>
+    <loc>/sk/hostina/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="/cs/obrad/"
+                href="/cs/veselka/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sk"
-                href="/sk/sobas/"
+                href="/sk/hostina/"
                 />
   </url><url>
     <loc>/sk/ubytovanie/</loc>

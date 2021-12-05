@@ -14,6 +14,18 @@
                 href="/cs/"
                 />
   </url><url>
+    <loc>/cs/kde-je-laska-opravdiva/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="/sk/kde-je-laska-opravdiva/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="/cs/kde-je-laska-opravdiva/"
+                />
+  </url><url>
     <loc>/cs/lokalita/</loc>
     <xhtml:link
                 rel="alternate"
@@ -42,7 +54,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="sk"
-                href="/sk/sobas/"
+                href="/sk/obrad/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -66,7 +78,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="sk"
-                href="/sk/basavel/"
+                href="/sk/hostina/"
                 />
     <xhtml:link
                 rel="alternate"
