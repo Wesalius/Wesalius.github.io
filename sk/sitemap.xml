@@ -62,6 +62,18 @@
                 href="/sk/omsovy-poriadok/"
                 />
   </url><url>
+    <loc>/sk/slovnik/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="/cs/slovnik/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="/sk/slovnik/"
+                />
+  </url><url>
     <loc>/sk/hostina/</loc>
     <xhtml:link
                 rel="alternate"

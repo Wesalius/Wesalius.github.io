@@ -62,6 +62,18 @@
                 href="/cs/obrad/"
                 />
   </url><url>
+    <loc>/cs/slovnik/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="/sk/slovnik/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="/cs/slovnik/"
+                />
+  </url><url>
     <loc>/cs/ubytovani/</loc>
     <xhtml:link
                 rel="alternate"
